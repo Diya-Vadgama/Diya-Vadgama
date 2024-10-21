@@ -1,30 +1,56 @@
 # Hi, I'm Diya Vadgama 👋
 
-## About Me
-I'm currently pursuing a **B.Tech in Computer Science Engineering** with a focus on **cybersecurity** at Parul University. My interests span across **cybersecurity** and **frontend development**, where I enjoy creating secure and user-friendly digital experiences.
-
-I am constantly working on improving my skills in these areas and exploring the ever-evolving landscape of technology to ensure the safety and usability of digital platforms.
+Welcome to my GitHub! I'm a **B.Tech student in Computer Science Engineering** with a focus on **Cybersecurity** at Parul University. I have a passion for developing secure, user-centric web applications, blending the best of both **frontend development** and **cybersecurity**.
 
 ---
 
-### Skills
-- **Programming Languages**: Python, JavaScript, C
-- **Frontend Technologies**: HTML, CSS, React.js, Bootstrap
-- **Cybersecurity**: Network security, Ethical hacking, Vulnerability analysis
-- **Tools**: Git, Figma, MySQL
+## 🚀 About Me
+
+I'm constantly exploring how the worlds of **web development** and **cybersecurity** intertwine, striving to build seamless and secure digital experiences. With a deep interest in securing web platforms from vulnerabilities, I aim to bridge the gap between creative development and security.
+
+- 🛡️ **Cybersecurity Enthusiast**: Dedicated to protecting digital assets and improving platform security.
+- 💻 **Frontend Developer**: Creating intuitive, responsive web applications using the latest tools and technologies.
+- ⚙️ **Problem Solver**: Passionate about tackling complex challenges and delivering effective solutions.
 
 ---
 
-### Current Focus
-- Enhancing my expertise in **cybersecurity**.
-- Building secure and efficient **frontend web applications**.
-- Continuously learning about **data-driven solutions** and **cyber defenses**.
+## 💻 Technologies & Tools
+
+### 🖥️ Frontend Development:
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries**: React.js, Bootstrap, Tailwind CSS
+- **UI/UX Tools**: Figma, Adobe XD
+
+### 🛡️ Cybersecurity:
+- **Threat Analysis**: Vulnerability Assessments, Penetration Testing
+- **Tools**: Wireshark, Metasploit, Burp Suite
+- **Security Practices**: Secure Coding, Ethical Hacking, Secure Network Design
+
+### 💾 Databases & Backend:
+- **SQL**: MySQL, PostgreSQL
+- **NoSQL**: MongoDB
+- **Backend Technologies**: Node.js, REST APIs
+
+### 🛠️ DevOps & Tools:
+- **Version Control**: Git, GitHub
+- **CI/CD**: GitHub Actions, Docker
+- **Cloud Platforms**: AWS, DigitalOcean
 
 ---
 
-### Let's Connect
-- **GitHub**: [Your GitHub URL](#)
-- **LinkedIn**: [Your LinkedIn URL](#)
-- **Portfolio**: [Your Portfolio URL](#)
+## 🌐 Connect with Me
 
-Feel free to check out my repositories, contribute, or reach out to collaborate on exciting projects!
+- **GitHub**: [github.com/yourusername](#)
+- **LinkedIn**: [linkedin.com/in/yourusername](#)
+- **Email**: [your.email@domain.com](#)
+
+---
+
+## 📊 GitHub Stats
+
+![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, and let’s connect if you'd like to collaborate or chat about tech!
