@@ -41,7 +41,7 @@ I'm constantly exploring how the worlds of **web development** and **cybersecuri
 ## 🌐 Connect with Me
 
 - **GitHub**: [github.com/Diya-Vadgama](https://github.com/Diya-Vadgama)
-- **LinkedIn**: [linkedin.com/in/diya-vadgama](https://linkedin.com/in/diya-vadgama)
+- **LinkedIn**: [linkedin.com/in/diya-vadgama](https://www.linkedin.com/in/diya-vadgama)
 - **Email**: [diyavadgama1966@gmail.com](mailto:diyavadgama1966@gmail.com)
 
 ---
