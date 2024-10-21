@@ -40,9 +40,9 @@ I'm constantly exploring how the worlds of **web development** and **cybersecuri
 
 ## 🌐 Connect with Me
 
-- **GitHub**: [github.com/yourusername](#)
-- **LinkedIn**: [linkedin.com/in/yourusername](#)
-- **Email**: [your.email@domain.com](#)
+- **GitHub**: [github.com/Diya-Vadgama](#)
+- **LinkedIn**: [linkedin.com/in/diya-vagdama](#)
+- **Email**: [diyavadgama1966@gmail.com](#)
 
 ---
 
