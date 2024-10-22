@@ -38,7 +38,7 @@ I'm constantly exploring how the worlds of **web development** and **cybersecuri
 
 ---
 
-## 🏆 Hacktoberfest 2024 Achievement
+### 🏆 Hacktoberfest 2024 Achievement
 
 [![An image of @diyavadgama's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diyavadgama)](https://holopin.io/@diyavadgama)
 
@@ -46,25 +46,16 @@ I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my c
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 ![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diya-Vadgama&show_icons=true&theme=radical)
 ![Diya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diya-Vadgama&theme=radical)
 
-### 📊 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Vadgama&layout=compact&theme=radical)](https://github.com/Diya-Vadgama)
+### 🏆 GitHub Trophies
+![Diya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Diya-Vadgama&theme=radical&no-bg=true&no-frame=true&margin-w=10&row=1)
 
----
-
-## 🏆 GitHub Trophies
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Diya-Vadgama&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 📈 Commits & Contributions
-
-![Diya's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Diya-Vadgama&theme=radical)
+### 🛠️ Commits & Contributions
+![Metrics](https://metrics.lecoq.io/Diya-Vadgama?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&achievements=1&activity=1&notable=1&repositories=1&isocalendar.duration=full-year&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.details=bytes-size&languages.indepth=false&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2Cfollowing&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false)
 
 ---
 
