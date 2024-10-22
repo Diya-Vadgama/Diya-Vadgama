@@ -1,56 +1,55 @@
 # Hi, I'm Diya Vadgama 👋
 
-Welcome to my GitHub! I'm a **B.Tech student in Computer Science Engineering** with a focus on **Cybersecurity** at Parul University. I have a passion for developing secure, user-centric web applications, blending the best of both **frontend development** and **cybersecurity**.
+Welcome to my GitHub! I'm a **B.Tech student in Computer Science Engineering** specializing in **Cybersecurity** at Parul University. I’m passionate about developing secure, user-centric web applications, combining my interests in **frontend development** and **cybersecurity**.
 
 ---
 
 ## 🚀 About Me
 
-I'm constantly exploring how the worlds of **web development** and **cybersecurity** intertwine, striving to build seamless and secure digital experiences. With a deep interest in securing web platforms from vulnerabilities, I aim to bridge the gap between creative development and security.
+I'm exploring how **web development** and **cybersecurity** intersect to create seamless and secure digital experiences. My goal is to secure web platforms against vulnerabilities while delivering intuitive applications.
 
-- 🛡️ **Cybersecurity Enthusiast**: Dedicated to protecting digital assets and improving platform security.
-- 💻 **Frontend Developer**: Creating intuitive, responsive web applications using the latest tools and technologies.
-- ⚙️ **Problem Solver**: Passionate about tackling complex challenges and delivering effective solutions.
+### 🔑 Key Interests:
+- 🛡️ **Cybersecurity Enthusiast**: Protecting digital assets and improving platform security.
+- 💻 **Frontend Developer**: Crafting responsive web applications using modern technologies.
+- ⚙️ **Problem Solver**: Tackling complex challenges with innovative solutions.
 
 ---
 
 ## 💻 Technologies & Tools
 
-### 🖥️ Frontend Development:
-- ![HTML5 Badge](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26)
-- ![CSS3 Badge](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6)
-- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- ![React.js Badge](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-- ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+### Frontend Development
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+- ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🛡️ Cybersecurity:
-- ![Security Badge](https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=security&logoColor=F44336)
-- ![Wireshark Badge](https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=3E8CC5)
-- ![Metasploit Badge](https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=E62429)
-- ![Burp Suite Badge](https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burp-suite&logoColor=F44336)
+### Cybersecurity
+- ![Wireshark](https://img.shields.io/badge/Wireshark-3E8CC5?style=for-the-badge&logo=wireshark&logoColor=white)
+- ![Metasploit](https://img.shields.io/badge/Metasploit-E62429?style=for-the-badge&logo=metasploit&logoColor=white)
+- ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F44336?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-### 💾 Databases & Backend:
-- ![MySQL Badge](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1)
-- ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-- ![MongoDB Badge](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248)
-- ![Node.js Badge](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=8CC84B)
-- ![REST APIs Badge](https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=F44336)
+### Databases & Backend
+- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+- ![Node.js](https://img.shields.io/badge/Node.js-8CC84B?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🛠️ DevOps & Tools:
-- ![Git Badge](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032)
-- ![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
-- ![Docker Badge](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED)
-- ![AWS Badge](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-- ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-000000?style=for-the-badge&logo=digitalocean&logoColor=0080FF)
+### DevOps & Tools
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+- ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 
 ---
 
 ## 🏆 Hacktoberfest 2024 Achievement
 
-[![An image of @diyavadgama's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diyavadgama)](https://holopin.io/@diyavadgama)
+[![Hacktoberfest Badge](https://holopin.me/diyavadgama)](https://holopin.io/@diyavadgama)
 
-I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my contributions. Click on the badge to view my full Holopin profile.
+I proudly earned the **Holopin Level 4** badge during Hacktoberfest 2024 for my contributions. Click on the badge to view my full Holopin profile.
 
 ---
 
@@ -66,9 +65,9 @@ I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my c
 
 ## 🌐 Connect with Me
 
-- **GitHub**: [![GitHub Badge](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diya-Vadgama)
-- **LinkedIn**: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Email**: [![Email Badge](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyavadgama1966@gmail.com)
+- **GitHub**: [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diya-Vadgama)
+- **LinkedIn**: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diyavadgama1966@gmail.com)
 
 ---
 
