@@ -44,18 +44,35 @@ I'm constantly exploring how the worlds of **web development** and **cybersecuri
 
 I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my contributions. Click on the badge to view my full Holopin profile.
 
+---
+
+## 📊 GitHub Stats
+
+![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diya-Vadgama&show_icons=true&theme=radical)
+![Diya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diya-Vadgama&theme=radical)
+
+### 📊 Top Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Vadgama&layout=compact&theme=radical)](https://github.com/Diya-Vadgama)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Diya-Vadgama&theme=radical&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📈 Commits & Contributions
+
+![Diya's GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=Diya-Vadgama&theme=radical)
+
+---
+
 ## 🌐 Connect with Me
 
 - **GitHub**: [github.com/Diya-Vadgama](https://github.com/Diya-Vadgama)
 - **LinkedIn**: [linkedin.com/in/diya-vadgama-3a5634307](https://www.linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email**: [diyavadgama1966@gmail.com](mailto:diyavadgama1966@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
 
 ---
 
