@@ -38,13 +38,11 @@ I'm constantly exploring how the worlds of **web development** and **cybersecuri
 
 ---
 
-## 🌐 Connect with Me
+### 🌐 Connect with Me
 
 - **GitHub**: [github.com/Diya-Vadgama](https://github.com/Diya-Vadgama)
-- **LinkedIn**: [linkedin.com/in/diya-vadagama](https://linkedin.com/in/diya-vadagama)
+- **LinkedIn**: [linkedin.com/in/diya-vadgama-3a5634307](https://www.linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email**: [diyavadgama1966@gmail.com](mailto:diyavadgama1966@gmail.com)
-
-[![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-2023-blueviolet?style=for-the-badge)](https://hacktoberfest.com/)
 
 ---
 
