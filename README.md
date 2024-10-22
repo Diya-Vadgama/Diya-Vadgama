@@ -51,11 +51,11 @@ I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my c
 ![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diya-Vadgama&show_icons=true&theme=radical)
 ![Diya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diya-Vadgama&theme=radical)
 
-### 🏆 GitHub Trophies
-![Diya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Diya-Vadgama&theme=radical&no-bg=true&no-frame=true&margin-w=10&row=1)
-
 ### 📊 Top Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Vadgama&layout=compact&theme=radical)](https://github.com/Diya-Vadgama)
+
+### 🏆 GitHub Trophies
+![Diya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Diya-Vadgama&theme=radical&no-bg=true&no-frame=true&margin-w=10&row=1)
 
 ## 🌐 Connect with Me
 
