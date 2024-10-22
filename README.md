@@ -44,6 +44,8 @@ I'm constantly exploring how the worlds of **web development** and **cybersecuri
 - **LinkedIn**: [linkedin.com/in/diya-vadgama-3a5634307](https://www.linkedin.com/in/diya-vadgama-3a5634307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Email**: [diyavadgama1966@gmail.com](mailto:diyavadgama1966@gmail.com)
 
+[![An image of @diyavadgama's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/diyavadgama)](https://holopin.io/@diyavadgama)
+
 ---
 
 ## 📊 GitHub Stats
