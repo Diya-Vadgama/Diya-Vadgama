@@ -44,19 +44,6 @@ I'm constantly exploring how the worlds of **web development** and **cybersecuri
 
 I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my contributions. Click on the badge to view my full Holopin profile.
 
----
-
-## 📊 GitHub Stats
-
-![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diya-Vadgama&show_icons=true&theme=radical)
-![Diya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Diya-Vadgama&theme=radical)
-
-### 📊 Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Vadgama&layout=compact&theme=radical)](https://github.com/Diya-Vadgama)
-
-### 🏆 GitHub Trophies
-![Diya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Diya-Vadgama&theme=radical&no-bg=true&no-frame=true&margin-w=10&row=1)
-
 ## 🌐 Connect with Me
 
 - **GitHub**: [github.com/Diya-Vadgama](https://github.com/Diya-Vadgama)
@@ -65,7 +52,11 @@ I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my c
 
 ---
 
-Thanks for stopping by! Feel free to explore my repositories, and let’s connect if you'd like to collaborate or chat about tech!
+## 📊 GitHub Stats
 
-### 🛠️ Commits & Contributions
-![Metrics](https://metrics.lecoq.io/Diya-Vadgama?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&achievements=1&activity=1&notable=1&repositories=1&isocalendar.duration=full-year&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.details=bytes-size&languages.indepth=false&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2Cfollowing&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false)
+![Diya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+
+---
+
+Thanks for stopping by! Feel free to explore my repositories, and let’s connect if you'd like to collaborate or chat about tech!
