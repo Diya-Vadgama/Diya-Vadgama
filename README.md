@@ -61,7 +61,7 @@ I proudly earned the **Hoplin Level 4** badge during Hacktoberfest 2024 for my c
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Diya-Vadgama&layout=compact&theme=radical)](https://github.com/Diya-Vadgama)
 
 ### 🛠️ Commits & Contributions
-![Commits](https://metrics.lecoq.io/Diya-Vadgama?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&achievements=1&activity=1&notable=1&repositories=1&isocalendar.duration=full-year&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.details=bytes-size&languages.indepth=false&languages.threshold=0.5&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2Cfollowing&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false)
+![Metrics](https://metrics.lecoq.io/Diya-Vadgama?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&achievements=1&activity=1&notable=1&repositories=1&isocalendar.duration=full-year&languages.limit=10&languages.sections=most-used&languages.colors=github&languages.details=bytes-size&languages.indepth=false&stars.limit=4&people.limit=24&people.identicons=false&people.size=28&people.types=followers%2Cfollowing&people.shuffle=false&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.repositories=false)
 
 ---
 
